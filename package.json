@@ -1,0 +1,18 @@
+{
+  "name": "careergenie",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CareerGenie - AI Career Guidance & Roadmap Assistant (MCA Major Project)",
+  "scripts": {
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install",
+    "seed": "cd backend && npm run seed",
+    "train": "cd ml && python generate_dataset.py && python train.py",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev": "concurrently -n backend,frontend -c blue,green \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "build": "cd frontend && npm run build && cd ../backend && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}

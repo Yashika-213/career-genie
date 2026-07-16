@@ -1,0 +1,2101 @@
+python,sql,javascript,html_css,react,nodejs,statistics,machine_learning,deep_learning,nlp,data_visualization,excel,cloud,docker,git,int_ai_ml,int_data_analysis,int_web_design,int_backend_systems,int_building_products,int_research,int_automation,education,domain,career
+0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,Bachelor's,Software Development,Backend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,PhD,Artificial Intelligence,Backend Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,1,0,0,1,0,1,1,1,1,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,Bachelor's,Data Science,Data Scientist
+1,0,0,0,0,1,1,1,0,0,1,1,0,0,0,1,1,0,0,0,0,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,PhD,Data Science,Data Scientist
+1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,Bachelor's,Web Development,Web Developer
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,0,Master's,Web Development,Frontend Developer
+1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,0,Diploma,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,1,Diploma,Web Development,Full Stack Developer
+0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,1,1,1,0,0,0,0,1,0,Bachelor's,Data Science,AI Engineer
+1,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Master's,Data Science,Data Analyst
+1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,1,0,1,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,1,0,1,1,0,1,0,0,0,0,0,1,1,1,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,Master's,Data Analytics,Data Analyst
+1,1,0,0,1,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,Bachelor's,Software Development,Data Scientist
+0,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,Diploma,Artificial Intelligence,Web Developer
+1,1,0,0,0,1,1,0,1,1,0,1,0,1,1,0,0,0,1,0,0,1,Bachelor's,Data Science,Backend Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,0,1,1,1,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+0,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,1,0,1,1,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,Master's,Software Development,Backend Developer
+0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,Master's,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,0,0,1,0,0,1,1,1,1,0,0,1,0,1,1,0,1,1,0,1,0,Diploma,Artificial Intelligence,AI Engineer
+1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,0,0,1,0,1,1,0,0,1,1,1,1,1,Diploma,Web Development,Full Stack Developer
+0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Diploma,Web Development,Frontend Developer
+0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,0,0,1,0,0,1,1,1,1,0,1,1,0,0,1,0,0,0,0,1,0,Master's,Data Analytics,AI Engineer
+1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,Bachelor's,Software Development,Data Analyst
+0,0,1,1,1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,1,Bachelor's,Data Analytics,Data Analyst
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,0,1,1,1,0,0,0,0,0,1,0,1,1,0,0,1,1,0,0,0,Master's,Software Development,Full Stack Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,1,0,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,High School,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,Diploma,Web Development,Full Stack Developer
+1,1,1,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,High School,Artificial Intelligence,Backend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,1,0,1,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,High School,Software Development,Backend Developer
+1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,Bachelor's,Artificial Intelligence,Frontend Developer
+1,0,0,1,0,0,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,1,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,High School,Data Analytics,Data Analyst
+0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,PhD,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,Master's,Web Development,Data Analyst
+0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,1,0,Master's,Data Analytics,Data Scientist
+1,1,0,0,1,0,1,1,0,0,1,0,0,1,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,1,0,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,Diploma,Web Development,Backend Developer
+1,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,1,0,1,0,Diploma,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,Diploma,Web Development,Full Stack Developer
+1,0,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,1,1,1,0,0,Diploma,Web Development,Web Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Software Development,Frontend Developer
+1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,Master's,Artificial Intelligence,AI Engineer
+0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bachelor's,Data Science,Data Analyst
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Data Science,Full Stack Developer
+1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,Diploma,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,1,1,0,0,0,1,1,PhD,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0,High School,Web Development,Frontend Developer
+1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,Bachelor's,Data Science,Backend Developer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,High School,Software Development,Backend Developer
+1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,PhD,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,1,1,0,Bachelor's,Data Science,Data Scientist
+0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,High School,Web Development,Frontend Developer
+0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,1,1,0,1,1,PhD,Web Development,Backend Developer
+0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Artificial Intelligence,Full Stack Developer
+1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,1,Bachelor's,Artificial Intelligence,Backend Developer
+1,1,0,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Master's,Web Development,Frontend Developer
+1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,1,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Master's,Web Development,Web Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,High School,Web Development,Frontend Developer
+1,1,0,0,0,0,0,1,0,0,1,1,1,0,0,1,1,0,0,0,1,0,PhD,Artificial Intelligence,Data Scientist
+1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,1,1,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,1,0,0,0,1,0,Diploma,Data Science,Data Scientist
+1,0,0,1,0,0,1,1,1,1,1,0,0,0,1,0,0,0,0,1,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,Bachelor's,Software Development,Data Analyst
+1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,1,0,Master's,Data Science,Data Scientist
+0,1,1,1,0,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,1,0,0,1,1,0,1,1,1,1,0,1,1,0,1,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,Master's,Web Development,Data Analyst
+1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,Diploma,Web Development,Frontend Developer
+0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Data Analytics,Full Stack Developer
+0,1,1,1,1,1,0,0,0,1,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Data Science,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,Master's,Data Analytics,Data Analyst
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Diploma,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,High School,Software Development,Backend Developer
+0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,1,Bachelor's,Software Development,Data Analyst
+1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Artificial Intelligence,Data Scientist
+0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,PhD,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,1,0,0,1,1,1,0,PhD,Artificial Intelligence,AI Engineer
+1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Web Development,Data Analyst
+1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,Diploma,Data Science,Frontend Developer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Master's,Web Development,Frontend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,0,1,1,0,1,0,0,1,0,0,1,0,0,1,1,0,1,0,1,1,0,Diploma,Web Development,Frontend Developer
+1,1,0,1,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Software Development,Data Scientist
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,1,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,0,1,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,Master's,Web Development,Frontend Developer
+1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,Bachelor's,Artificial Intelligence,Backend Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,Bachelor's,Data Analytics,Frontend Developer
+1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,Master's,Data Science,Full Stack Developer
+1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,High School,Web Development,Full Stack Developer
+1,1,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,1,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Diploma,Web Development,Data Analyst
+0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,Bachelor's,Data Analytics,Data Scientist
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,Diploma,Software Development,Backend Developer
+0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Software Development,Data Scientist
+0,1,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,Diploma,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,1,1,0,1,PhD,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,High School,Web Development,Frontend Developer
+1,1,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,Master's,Software Development,Backend Developer
+1,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,1,1,1,0,0,1,1,1,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,1,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,High School,Web Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,0,0,Bachelor's,Artificial Intelligence,Web Developer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Bachelor's,Web Development,Frontend Developer
+0,1,1,1,1,0,1,0,0,1,0,0,0,1,1,0,0,1,1,1,0,1,Master's,Software Development,Full Stack Developer
+0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,Master's,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Master's,Web Development,Frontend Developer
+0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,0,1,Diploma,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,1,0,1,1,0,1,0,0,1,1,1,0,0,Bachelor's,Data Analytics,Full Stack Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,Master's,Data Analytics,Data Analyst
+1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,0,0,1,Diploma,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,Master's,Web Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,Bachelor's,Data Analytics,Data Analyst
+0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,Bachelor's,Software Development,Frontend Developer
+0,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Data Science,Frontend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,Bachelor's,Software Development,Web Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,High School,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,Bachelor's,Data Analytics,AI Engineer
+0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,Diploma,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,Diploma,Web Development,Web Developer
+0,0,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,1,0,0,1,0,0,1,0,0,0,1,1,1,1,0,0,1,0,0,0,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,Diploma,Data Analytics,Backend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,Master's,Software Development,Backend Developer
+0,1,1,0,1,1,1,0,0,1,0,0,0,1,1,1,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,1,0,1,0,1,1,0,0,0,0,1,1,0,0,0,1,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,1,Master's,Data Science,Data Scientist
+0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,1,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,Diploma,Web Development,Frontend Developer
+1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,Bachelor's,Data Science,Data Scientist
+0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Data Analytics,Frontend Developer
+1,0,0,1,1,0,1,0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,Master's,Software Development,AI Engineer
+1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,Bachelor's,Software Development,Backend Developer
+0,0,1,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+0,1,1,0,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,0,0,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Artificial Intelligence,Backend Developer
+1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,Bachelor's,Software Development,Backend Developer
+0,1,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,0,0,1,Diploma,Web Development,Full Stack Developer
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Diploma,Artificial Intelligence,Backend Developer
+1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Artificial Intelligence,Backend Developer
+1,0,0,0,0,1,1,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,High School,Software Development,Web Developer
+0,0,1,1,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,Diploma,Artificial Intelligence,Frontend Developer
+0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,0,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,High School,Web Development,Frontend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,0,1,1,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Artificial Intelligence,Backend Developer
+1,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0,1,0,0,0,1,1,Diploma,Data Analytics,Data Analyst
+0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,1,1,Diploma,Artificial Intelligence,AI Engineer
+0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,Diploma,Artificial Intelligence,Data Analyst
+1,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,1,High School,Software Development,Backend Developer
+0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Bachelor's,Data Analytics,Backend Developer
+1,1,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,High School,Data Science,Backend Developer
+1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,1,1,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Diploma,Data Science,Full Stack Developer
+1,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,1,0,0,Diploma,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,0,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,Diploma,Software Development,Data Scientist
+1,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Web Developer
+1,1,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,PhD,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,High School,Web Development,Web Developer
+0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Software Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,1,1,1,0,0,0,1,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,1,0,0,0,1,1,0,1,1,0,0,0,1,1,1,1,0,0,0,0,Bachelor's,Data Science,Data Scientist
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Software Development,Frontend Developer
+1,0,0,0,0,0,1,1,1,1,0,1,0,0,1,1,0,0,1,0,1,1,Master's,Web Development,AI Engineer
+0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,PhD,Data Analytics,Data Scientist
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,High School,Web Development,Web Developer
+1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,1,Master's,Artificial Intelligence,Backend Developer
+1,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,High School,Data Science,Web Developer
+1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,PhD,Software Development,Data Scientist
+1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,Bachelor's,Artificial Intelligence,Data Scientist
+1,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,Master's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,1,1,0,1,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,1,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,1,0,Master's,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Artificial Intelligence,Data Scientist
+1,1,1,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,Diploma,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,Bachelor's,Web Development,Frontend Developer
+0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Master's,Web Development,Frontend Developer
+0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,High School,Web Development,Web Developer
+1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,Bachelor's,Software Development,Backend Developer
+0,1,0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0,1,1,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,1,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,PhD,Data Science,Data Scientist
+1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,0,1,0,Bachelor's,Data Analytics,AI Engineer
+1,1,0,0,0,1,1,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,High School,Data Analytics,Data Analyst
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,1,1,0,1,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,1,1,1,0,0,0,0,0,1,1,1,1,1,0,1,0,1,0,0,Master's,Web Development,Web Developer
+1,1,0,1,0,1,1,1,1,1,1,0,0,0,1,1,0,0,0,0,1,1,PhD,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,0,Master's,Web Development,Web Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Diploma,Web Development,Web Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,1,1,0,Master's,Web Development,Web Developer
+1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,0,0,0,1,0,0,1,1,0,1,1,1,0,1,1,1,1,Diploma,Software Development,Backend Developer
+1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,1,1,1,1,0,0,0,0,0,1,1,0,1,1,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,1,1,0,1,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,Bachelor's,Data Science,Frontend Developer
+1,0,0,0,1,0,0,1,1,1,0,0,0,0,1,1,0,0,1,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,0,1,1,1,1,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,1,Bachelor's,Web Development,Web Developer
+1,1,1,0,0,0,1,1,0,0,1,0,1,1,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+0,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,1,0,0,1,0,0,1,1,1,0,1,0,0,1,0,0,1,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,1,1,0,1,1,0,Bachelor's,Web Development,Frontend Developer
+0,1,0,1,1,1,0,0,1,0,0,1,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,PhD,Artificial Intelligence,Backend Developer
+0,0,1,1,1,1,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,1,0,1,0,1,1,0,1,1,1,0,0,0,1,0,0,1,PhD,Software Development,Backend Developer
+1,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,1,1,1,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,Diploma,Artificial Intelligence,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,1,1,0,0,0,1,0,Diploma,Data Analytics,Data Analyst
+0,0,1,1,0,1,0,0,0,1,0,0,0,1,1,1,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,1,1,0,1,0,1,0,Diploma,Web Development,Data Scientist
+0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,Bachelor's,Web Development,Full Stack Developer
+0,1,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,1,0,0,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,PhD,Artificial Intelligence,AI Engineer
+0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Diploma,Artificial Intelligence,AI Engineer
+1,0,1,1,0,0,1,1,1,1,0,0,0,1,1,1,0,1,0,0,1,0,Bachelor's,Data Analytics,AI Engineer
+1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,0,0,0,0,1,1,1,1,1,0,0,1,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,1,0,1,Bachelor's,Software Development,Backend Developer
+1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,Diploma,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,High School,Software Development,Frontend Developer
+0,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Data Science,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Bachelor's,Artificial Intelligence,Backend Developer
+1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,Master's,Data Science,Data Scientist
+0,1,1,1,1,0,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,1,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,Master's,Artificial Intelligence,Data Analyst
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,1,1,0,Master's,Artificial Intelligence,Data Scientist
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,Bachelor's,Data Analytics,Web Developer
+0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,High School,Web Development,Frontend Developer
+1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,1,0,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,High School,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,Bachelor's,Data Analytics,Backend Developer
+1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Analytics,Data Scientist
+0,1,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,1,1,Bachelor's,Web Development,Data Scientist
+1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Software Development,AI Engineer
+1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,1,0,1,0,0,0,0,0,1,1,0,1,1,0,1,0,1,0,0,Master's,Web Development,Web Developer
+1,1,0,0,1,0,1,1,0,0,1,0,1,0,0,1,1,1,0,0,1,0,PhD,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,PhD,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,1,0,1,0,0,1,1,0,1,1,1,0,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,1,0,1,Bachelor's,Software Development,Backend Developer
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,Bachelor's,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,1,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Master's,Artificial Intelligence,Backend Developer
+1,1,0,1,1,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,Diploma,Web Development,Frontend Developer
+1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,0,1,0,1,1,Master's,Web Development,AI Engineer
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,1,1,Bachelor's,Data Science,Data Scientist
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,High School,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,1,Master's,Artificial Intelligence,Data Scientist
+1,0,0,0,1,0,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,Diploma,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Master's,Data Analytics,Data Analyst
+1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,0,0,0,0,1,1,0,0,1,0,1,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,Master's,Data Science,Data Scientist
+1,0,1,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,1,Bachelor's,Data Science,Backend Developer
+1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,High School,Software Development,Backend Developer
+1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,0,1,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0,1,1,Master's,Software Development,Data Scientist
+1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,1,1,1,0,1,0,0,1,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,Diploma,Web Development,Frontend Developer
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,PhD,Artificial Intelligence,AI Engineer
+0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Diploma,Software Development,Data Analyst
+1,1,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,Master's,Data Science,Backend Developer
+0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,0,0,1,0,1,1,0,0,1,1,0,0,0,1,0,1,0,0,1,0,Master's,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,1,1,0,0,0,1,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,0,Bachelor's,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,1,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,1,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,1,1,0,Master's,Web Development,AI Engineer
+0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,Diploma,Data Science,Full Stack Developer
+0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,Diploma,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,1,Master's,Data Science,Data Scientist
+1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,1,0,1,1,1,0,1,0,0,0,1,0,0,1,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Artificial Intelligence,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,1,1,1,0,PhD,Artificial Intelligence,AI Engineer
+1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,PhD,Data Science,AI Engineer
+1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Bachelor's,Data Analytics,Data Analyst
+0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,High School,Data Science,Frontend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,Diploma,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,Diploma,Data Science,Data Scientist
+1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,1,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,0,0,0,1,0,1,0,0,1,0,1,1,1,1,0,0,1,0,1,1,Master's,Data Science,Backend Developer
+0,0,1,1,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,1,High School,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Diploma,Software Development,Backend Developer
+1,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,Bachelor's,Web Development,Frontend Developer
+1,1,0,1,0,0,0,0,1,0,1,1,0,1,0,0,1,0,1,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,1,1,0,1,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,Master's,Data Analytics,Data Analyst
+1,1,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,0,PhD,Data Analytics,Data Scientist
+0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,1,Diploma,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,1,1,0,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Diploma,Web Development,Frontend Developer
+0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,0,1,0,1,1,0,0,0,1,0,0,0,1,0,0,1,1,1,0,1,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0,Master's,Software Development,Data Analyst
+1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,0,0,1,1,1,0,0,High School,Data Science,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,1,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,1,0,Master's,Software Development,AI Engineer
+1,0,1,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Analytics,Data Scientist
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Data Science,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,1,1,Bachelor's,Software Development,Backend Developer
+1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,1,1,1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,1,0,1,0,1,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,PhD,Software Development,Backend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0,1,0,0,Master's,Web Development,Frontend Developer
+1,1,1,0,1,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Data Analytics,Full Stack Developer
+1,1,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0,0,1,0,1,0,PhD,Software Development,Backend Developer
+1,1,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,1,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,1,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,High School,Data Analytics,Web Developer
+0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,0,1,0,0,0,0,1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,1,1,0,1,1,Master's,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,Master's,Software Development,Backend Developer
+0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Web Development,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,1,Bachelor's,Data Science,Backend Developer
+0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,Master's,Data Analytics,Data Analyst
+1,0,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Master's,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0,0,0,1,1,Diploma,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,Master's,Web Development,Web Developer
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,Bachelor's,Software Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Analytics,Data Scientist
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,Diploma,Software Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,1,Master's,Data Science,Data Scientist
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,High School,Data Analytics,Web Developer
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,Bachelor's,Web Development,Frontend Developer
+1,0,0,1,0,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,1,1,1,1,1,0,0,1,0,1,1,0,0,0,0,1,0,Master's,Web Development,AI Engineer
+1,1,0,1,0,0,1,0,1,0,1,1,0,1,0,0,1,1,0,0,0,0,High School,Artificial Intelligence,Data Analyst
+1,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,Diploma,Artificial Intelligence,AI Engineer
+0,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,1,1,0,1,0,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,1,1,Bachelor's,Software Development,Backend Developer
+0,1,1,1,0,1,0,1,0,0,0,1,0,1,1,0,0,0,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Web Developer
+0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Bachelor's,Web Development,Frontend Developer
+0,0,1,0,1,1,0,1,0,1,0,0,1,0,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+1,1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Diploma,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,0,1,1,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Web Developer
+0,1,1,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,1,Diploma,Data Science,Full Stack Developer
+1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,PhD,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,0,1,0,0,1,0,1,1,0,0,0,0,1,0,Diploma,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,1,0,0,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,High School,Data Analytics,Backend Developer
+1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,1,1,0,Master's,Data Science,Data Scientist
+0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,1,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,1,0,0,1,1,1,1,0,1,0,0,1,1,0,1,0,0,1,1,PhD,Artificial Intelligence,AI Engineer
+0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,1,0,1,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,Master's,Web Development,Frontend Developer
+0,0,1,1,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,1,1,1,Bachelor's,Web Development,Web Developer
+0,1,1,1,1,1,0,0,1,0,1,0,0,1,1,0,1,1,1,1,0,1,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Data Science,Web Developer
+1,0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,0,0,0,0,1,0,Master's,Software Development,AI Engineer
+0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,1,1,0,0,0,1,0,0,1,0,0,1,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,Diploma,Web Development,Web Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,1,1,1,0,0,0,0,1,0,Diploma,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,High School,Web Development,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Diploma,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,0,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,1,0,0,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,0,1,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Data Science,Full Stack Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,High School,Web Development,Full Stack Developer
+0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,1,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1,0,0,High School,Web Development,Web Developer
+0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,0,1,1,Master's,Data Science,Data Scientist
+1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Data Science,AI Engineer
+1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,1,1,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,1,0,0,0,1,1,0,1,1,1,1,0,0,1,0,1,1,Bachelor's,Software Development,Backend Developer
+0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,PhD,Software Development,Backend Developer
+0,0,1,1,1,0,1,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,Diploma,Web Development,Web Developer
+0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,1,1,1,0,1,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,Bachelor's,Software Development,Backend Developer
+1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,PhD,Software Development,Backend Developer
+1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,Bachelor's,Data Science,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,0,0,1,1,1,1,1,0,0,0,0,0,1,1,1,1,0,1,0,1,0,Master's,Data Science,AI Engineer
+1,1,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,Master's,Web Development,Backend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,0,0,1,0,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,0,0,1,1,1,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,Diploma,Web Development,Web Developer
+0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,Bachelor's,Data Science,Backend Developer
+0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,1,0,PhD,Data Science,Data Scientist
+1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,Bachelor's,Software Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,High School,Software Development,Frontend Developer
+1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Software Development,Web Developer
+0,1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,Bachelor's,Artificial Intelligence,Backend Developer
+1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,1,1,0,0,0,1,1,1,0,0,0,1,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,1,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,High School,Web Development,Frontend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,1,0,0,1,1,0,0,1,1,0,Master's,Data Science,Data Scientist
+0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,1,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,Master's,Web Development,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,1,Bachelor's,Data Analytics,Data Scientist
+0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,Bachelor's,Software Development,Frontend Developer
+1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,1,Master's,Software Development,Backend Developer
+0,1,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,Master's,Software Development,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,Master's,Software Development,Backend Developer
+1,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,PhD,Software Development,Backend Developer
+0,1,1,1,0,0,1,1,0,0,1,1,1,0,0,0,1,0,0,1,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1,Diploma,Web Development,Full Stack Developer
+0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,1,1,1,0,1,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,High School,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,PhD,Software Development,Backend Developer
+1,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,1,0,0,Master's,Data Analytics,Data Analyst
+1,0,1,1,1,1,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Master's,Software Development,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,Master's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,1,High School,Web Development,Web Developer
+0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,1,1,0,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Bachelor's,Data Analytics,Backend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Master's,Web Development,Frontend Developer
+1,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,PhD,Software Development,Backend Developer
+0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Diploma,Data Science,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,1,0,0,1,1,PhD,Data Analytics,Data Scientist
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,1,0,0,1,1,0,0,1,1,1,1,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,1,0,1,0,1,0,1,0,0,0,1,0,0,1,0,1,1,1,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,1,0,0,1,Master's,Web Development,Backend Developer
+0,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,Master's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,0,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+0,0,1,1,1,1,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0,Diploma,Web Development,Web Developer
+1,1,0,1,0,0,1,1,1,0,0,1,0,0,0,1,1,0,1,0,1,0,Master's,Data Science,Data Scientist
+0,0,1,1,0,1,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,Master's,Web Development,Web Developer
+0,1,0,0,0,1,1,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,PhD,Software Development,Backend Developer
+0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,0,0,1,1,1,1,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,Bachelor's,Data Analytics,Data Scientist
+1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,1,0,1,1,PhD,Software Development,Backend Developer
+0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,1,Diploma,Web Development,Backend Developer
+1,1,0,0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,1,0,1,Bachelor's,Software Development,Backend Developer
+0,1,0,0,1,0,1,1,1,1,0,1,0,1,1,1,0,0,1,0,1,0,Bachelor's,Data Analytics,AI Engineer
+1,1,1,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,1,0,1,1,0,0,1,0,1,0,0,1,1,0,0,0,1,0,Diploma,Data Science,Data Scientist
+0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,1,0,0,1,0,1,0,Diploma,Artificial Intelligence,AI Engineer
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+0,1,1,1,1,1,0,1,1,0,0,0,1,1,0,1,0,1,1,0,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,1,0,Master's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,Diploma,Data Analytics,Data Analyst
+1,0,1,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0,1,0,1,1,Bachelor's,Software Development,Backend Developer
+0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,0,Master's,Data Science,AI Engineer
+1,0,1,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,0,0,0,0,1,1,1,1,1,0,0,0,1,1,1,0,0,0,0,1,0,Master's,Data Analytics,AI Engineer
+0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Data Analytics,Frontend Developer
+1,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,Master's,Web Development,Frontend Developer
+0,0,1,1,1,0,1,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,Bachelor's,Artificial Intelligence,Web Developer
+0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Master's,Data Science,Data Scientist
+0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,0,1,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,Diploma,Data Science,Data Scientist
+1,1,1,1,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,1,1,0,1,0,0,1,0,0,0,1,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,1,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Artificial Intelligence,Data Analyst
+0,1,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,Bachelor's,Web Development,Full Stack Developer
+0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,High School,Web Development,Web Developer
+1,1,0,1,0,0,1,1,1,0,0,0,0,0,1,1,1,0,0,1,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,Master's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,Diploma,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Data Science,Frontend Developer
+0,0,1,1,1,1,0,0,0,1,0,0,0,1,1,0,1,1,1,1,0,1,Bachelor's,Web Development,Full Stack Developer
+1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Diploma,Data Science,Data Scientist
+0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,PhD,Artificial Intelligence,AI Engineer
+1,0,1,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,High School,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,1,Bachelor's,Web Development,Full Stack Developer
+0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,0,0,1,1,0,1,0,0,1,1,1,0,1,Bachelor's,Data Science,Full Stack Developer
+1,0,0,0,0,0,1,1,0,1,1,0,0,0,1,1,0,0,1,0,0,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,0,1,0,0,0,0,1,0,0,1,0,1,1,0,1,1,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,0,High School,Web Development,Frontend Developer
+0,1,1,0,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,0,Bachelor's,Artificial Intelligence,Full Stack Developer
+1,1,0,0,1,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,High School,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,Diploma,Artificial Intelligence,Backend Developer
+1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,Master's,Web Development,Backend Developer
+1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,0,0,0,1,1,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,PhD,Software Development,Backend Developer
+0,1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,High School,Software Development,Backend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,1,1,1,1,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,Bachelor's,Artificial Intelligence,Web Developer
+1,0,0,1,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,1,0,Master's,Data Analytics,AI Engineer
+1,0,0,1,0,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Web Development,Backend Developer
+0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,1,0,1,1,0,0,1,0,1,1,0,1,1,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,PhD,Artificial Intelligence,AI Engineer
+1,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,0,0,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,1,1,0,1,1,0,1,0,0,1,0,1,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,1,1,0,0,0,1,1,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,1,0,1,1,1,0,0,1,0,1,1,0,0,0,0,0,0,Diploma,Data Science,AI Engineer
+0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Master's,Web Development,Web Developer
+0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Artificial Intelligence,Web Developer
+1,0,0,0,1,1,1,0,0,1,0,1,0,0,1,1,0,1,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Diploma,Artificial Intelligence,AI Engineer
+0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,High School,Web Development,Full Stack Developer
+0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,0,1,1,0,1,1,0,0,1,0,0,Master's,Data Science,Data Scientist
+0,1,0,1,1,1,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,High School,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Web Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,Diploma,Web Development,Frontend Developer
+1,1,1,1,0,0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,1,1,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,1,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Software Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,0,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,High School,Web Development,Frontend Developer
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Master's,Web Development,Web Developer
+1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,1,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Master's,Software Development,Web Developer
+1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,1,1,1,1,0,1,0,0,1,0,0,0,1,0,Bachelor's,Data Analytics,Data Analyst
+0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,Diploma,Software Development,Backend Developer
+0,1,1,1,0,1,1,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,PhD,Software Development,Backend Developer
+0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,1,1,0,High School,Web Development,Full Stack Developer
+1,0,1,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,0,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,Master's,Software Development,Backend Developer
+1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Master's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,Master's,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,Diploma,Web Development,Web Developer
+1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1,1,PhD,Data Science,Data Scientist
+1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,Master's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,0,1,0,1,1,1,0,0,0,1,0,0,0,0,1,Diploma,Artificial Intelligence,Data Analyst
+1,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,Master's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,1,1,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,1,0,0,1,0,0,1,0,1,0,1,1,1,1,0,0,1,0,0,1,Master's,Web Development,Backend Developer
+0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,1,1,1,0,Master's,Data Science,Data Scientist
+0,0,1,1,1,1,1,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,1,1,0,1,0,0,1,0,1,1,1,0,0,0,1,0,Bachelor's,Software Development,AI Engineer
+1,1,0,0,0,0,1,1,0,0,1,0,1,0,0,1,1,0,0,0,0,0,Master's,Data Science,Data Scientist
+1,1,0,0,1,0,1,0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,1,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,High School,Data Science,Web Developer
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Data Analytics,Full Stack Developer
+0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,Diploma,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,1,0,0,Master's,Artificial Intelligence,Data Scientist
+1,1,1,1,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Web Developer
+1,1,1,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Bachelor's,Web Development,Web Developer
+1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,1,0,0,0,1,0,1,1,0,1,0,0,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,0,0,0,0,0,1,0,1,0,0,1,1,0,1,1,0,0,0,0,1,0,Bachelor's,Web Development,AI Engineer
+0,1,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,High School,Web Development,Full Stack Developer
+0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0,1,0,Bachelor's,Web Development,Backend Developer
+0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,PhD,Data Analytics,Data Scientist
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,Bachelor's,Artificial Intelligence,Backend Developer
+0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,Bachelor's,Web Development,Frontend Developer
+0,1,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,1,Bachelor's,Web Development,Web Developer
+1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,Diploma,Data Analytics,Data Analyst
+0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+1,1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,High School,Data Analytics,Data Analyst
+0,1,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,1,0,0,1,1,0,1,0,0,1,0,1,1,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,1,1,0,0,0,0,1,1,1,1,1,0,0,1,0,Bachelor's,Data Analytics,AI Engineer
+1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,1,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,0,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,1,1,0,Bachelor's,Data Science,Data Scientist
+1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,PhD,Data Science,Data Scientist
+1,1,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,0,0,0,0,1,1,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,High School,Data Analytics,Data Analyst
+1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,1,0,1,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,Bachelor's,Artificial Intelligence,Data Scientist
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,1,Bachelor's,Web Development,Full Stack Developer
+0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,PhD,Software Development,Backend Developer
+1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Master's,Web Development,Web Developer
+0,1,0,0,0,1,0,0,0,1,1,0,0,1,1,1,1,0,1,0,0,0,Bachelor's,Web Development,Backend Developer
+1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,Diploma,Software Development,Data Analyst
+0,1,0,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,1,0,1,1,0,1,1,0,1,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,Bachelor's,Data Analytics,Backend Developer
+1,0,0,0,0,0,0,1,1,1,0,0,1,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,Bachelor's,Software Development,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,Master's,Data Science,Data Analyst
+0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,0,0,0,1,1,0,0,0,1,1,0,0,1,0,1,0,0,High School,Web Development,Full Stack Developer
+1,0,1,0,1,0,1,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,Bachelor's,Data Analytics,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,Diploma,Data Analytics,Data Analyst
+0,1,1,1,1,0,0,0,0,1,0,1,0,1,1,0,0,1,0,1,0,0,Diploma,Data Science,Full Stack Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,Diploma,Artificial Intelligence,AI Engineer
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,PhD,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0,High School,Data Analytics,Data Analyst
+1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,Bachelor's,Web Development,Web Developer
+0,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,0,0,0,1,1,1,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,Bachelor's,Data Science,Data Scientist
+1,1,1,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0,0,1,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,Bachelor's,Web Development,Web Developer
+1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0,1,0,1,1,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,PhD,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,1,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,1,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,Diploma,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Diploma,Software Development,Backend Developer
+1,1,0,0,0,1,1,0,0,0,1,0,1,1,1,0,1,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,1,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1,1,Bachelor's,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,Bachelor's,Software Development,Web Developer
+1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,PhD,Artificial Intelligence,Data Scientist
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,1,0,Master's,Data Science,Data Scientist
+0,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Web Development,Data Analyst
+0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,Bachelor's,Software Development,Web Developer
+0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,1,0,1,0,1,0,PhD,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Master's,Web Development,Web Developer
+0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,High School,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Data Analytics,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,PhD,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Bachelor's,Artificial Intelligence,Frontend Developer
+1,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,Master's,Artificial Intelligence,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,1,1,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,1,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Diploma,Data Science,Data Scientist
+1,1,1,1,1,1,0,0,1,1,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,Bachelor's,Software Development,Backend Developer
+1,1,0,0,1,0,1,1,1,0,0,0,0,0,0,1,1,1,0,1,1,0,PhD,Data Science,Data Scientist
+0,0,1,1,1,0,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,0,Bachelor's,Web Development,Frontend Developer
+0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,1,1,0,Master's,Data Science,Data Scientist
+0,1,1,0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,0,0,1,1,Diploma,Data Science,Data Scientist
+1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,PhD,Web Development,AI Engineer
+0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,0,0,1,0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Data Analytics,AI Engineer
+1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Diploma,Data Science,Data Scientist
+0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Data Analytics,Frontend Developer
+0,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0,1,1,0,1,1,0,Bachelor's,Web Development,Frontend Developer
+0,1,0,1,1,1,0,1,0,1,0,0,1,1,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,1,1,0,0,1,1,0,0,1,0,1,1,1,0,1,0,1,0,0,1,Master's,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,1,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,High School,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,1,Master's,Data Analytics,Backend Developer
+1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,Bachelor's,Web Development,Data Analyst
+0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,1,1,1,0,0,0,1,1,1,0,1,0,0,0,Bachelor's,Data Science,Data Scientist
+0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,1,1,0,Diploma,Data Science,Data Scientist
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Master's,Data Science,Data Scientist
+0,1,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,High School,Data Science,Frontend Developer
+1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,1,0,0,1,Bachelor's,Data Science,Backend Developer
+1,1,0,0,0,0,1,0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Master's,Web Development,Frontend Developer
+1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,1,0,Master's,Artificial Intelligence,Data Scientist
+0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Master's,Artificial Intelligence,Frontend Developer
+1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,Diploma,Artificial Intelligence,AI Engineer
+0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,0,Master's,Data Analytics,AI Engineer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,High School,Web Development,Frontend Developer
+1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,1,0,1,1,1,0,Bachelor's,Data Science,Data Scientist
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,Bachelor's,Data Analytics,Backend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,1,0,1,1,0,0,1,1,1,0,0,High School,Software Development,Full Stack Developer
+1,0,0,0,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Artificial Intelligence,Data Scientist
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,Master's,Data Science,Data Scientist
+1,0,0,1,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,Master's,Web Development,Web Developer
+0,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Software Development,Data Analyst
+0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Master's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,Master's,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,1,1,0,0,1,0,Diploma,Data Analytics,Data Analyst
+0,0,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,1,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,0,0,1,0,0,0,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,PhD,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,High School,Data Science,Web Developer
+1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,1,0,0,0,0,1,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,1,PhD,Data Science,Data Scientist
+1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,PhD,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,1,1,0,PhD,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,0,Master's,Artificial Intelligence,Data Scientist
+1,0,1,1,1,0,1,0,0,0,1,1,0,0,1,0,1,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,Bachelor's,Software Development,Data Analyst
+0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,1,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,PhD,Artificial Intelligence,Backend Developer
+1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,1,0,0,1,0,1,0,Master's,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,Bachelor's,Artificial Intelligence,Data Analyst
+1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,1,1,0,1,0,0,1,1,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1,Bachelor's,Web Development,Data Analyst
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,1,1,1,0,1,Diploma,Software Development,Backend Developer
+0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Diploma,Web Development,Web Developer
+0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,Bachelor's,Data Science,AI Engineer
+1,0,0,0,0,0,1,1,0,1,1,0,0,0,1,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,High School,Software Development,Data Analyst
+0,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,Diploma,Web Development,Web Developer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Bachelor's,Web Development,Frontend Developer
+1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,Master's,Web Development,Full Stack Developer
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,High School,Software Development,Backend Developer
+1,0,0,0,0,1,1,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,PhD,Artificial Intelligence,AI Engineer
+1,1,0,1,1,0,1,0,0,0,1,1,0,1,1,0,1,1,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,1,1,1,1,1,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,Bachelor's,Artificial Intelligence,Backend Developer
+1,1,0,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,1,0,1,0,Master's,Web Development,AI Engineer
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,1,0,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,1,1,0,Master's,Web Development,Frontend Developer
+1,0,1,1,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,Master's,Web Development,Frontend Developer
+0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,1,1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,1,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Diploma,Data Analytics,Web Developer
+1,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,High School,Data Analytics,Data Analyst
+1,1,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,1,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,Master's,Data Analytics,Data Analyst
+1,0,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,0,0,Bachelor's,Data Science,Data Scientist
+0,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,High School,Web Development,Full Stack Developer
+0,0,1,1,1,0,1,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,Diploma,Web Development,Frontend Developer
+0,1,0,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,1,0,0,High School,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,1,0,1,Bachelor's,Web Development,Backend Developer
+1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,Bachelor's,Data Analytics,Data Analyst
+0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,0,0,0,1,0,0,1,1,0,0,1,1,1,1,0,0,1,0,0,0,Diploma,Software Development,Backend Developer
+0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,Diploma,Web Development,Web Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,1,0,1,1,1,0,0,0,1,0,0,1,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,0,0,Bachelor's,Web Development,Data Scientist
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,High School,Web Development,Full Stack Developer
+1,1,0,1,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,High School,Web Development,Web Developer
+0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+1,1,0,0,1,0,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,Diploma,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,Master's,Software Development,Full Stack Developer
+0,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,Diploma,Web Development,Frontend Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,1,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,1,Bachelor's,Data Analytics,Data Analyst
+1,0,1,0,1,0,1,1,1,1,1,0,0,0,1,1,1,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,Bachelor's,Software Development,Data Analyst
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,1,1,0,0,1,Master's,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,0,1,0,1,0,0,1,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,1,0,1,0,0,0,0,0,1,1,1,1,0,1,1,1,1,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,Master's,Software Development,Data Scientist
+0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,High School,Web Development,Frontend Developer
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,1,1,Bachelor's,Software Development,Backend Developer
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,Master's,Data Analytics,Data Analyst
+0,1,1,0,1,1,1,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,1,1,1,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,1,0,1,1,0,0,0,1,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,Master's,Data Science,Data Scientist
+1,1,1,1,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1,Bachelor's,Software Development,Data Analyst
+1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,Master's,Web Development,AI Engineer
+0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,Diploma,Software Development,Web Developer
+0,0,1,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,1,0,0,Master's,Web Development,Web Developer
+0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,High School,Data Analytics,Data Analyst
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Master's,Data Science,Web Developer
+0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,1,1,0,0,1,0,0,0,1,1,1,1,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Bachelor's,Software Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,0,1,1,1,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,Diploma,Web Development,Web Developer
+0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,1,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,1,1,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Master's,Web Development,Frontend Developer
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,Bachelor's,Web Development,Web Developer
+1,1,1,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,High School,Data Analytics,Data Analyst
+1,0,1,0,1,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,1,0,0,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1,0,Master's,Data Science,Data Scientist
+0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Data Analytics,Web Developer
+1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,Bachelor's,Artificial Intelligence,Data Scientist
+1,0,0,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,1,1,Master's,Software Development,Backend Developer
+0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,High School,Web Development,Full Stack Developer
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Software Development,Frontend Developer
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Diploma,Web Development,Web Developer
+0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Data Science,AI Engineer
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Web Developer
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,High School,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,Master's,Data Analytics,Data Analyst
+0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Software Development,Data Scientist
+1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Web Development,AI Engineer
+1,1,0,0,0,1,1,1,0,0,1,1,0,0,0,1,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,1,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,Diploma,Web Development,Web Developer
+1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,Bachelor's,Web Development,Backend Developer
+1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1,0,1,1,1,0,Bachelor's,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,Master's,Data Science,Data Scientist
+0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,1,1,Diploma,Data Science,Backend Developer
+1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,1,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,PhD,Data Science,AI Engineer
+0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,High School,Data Science,Web Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,Master's,Software Development,Backend Developer
+0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Data Analytics,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Data Science,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,Diploma,Web Development,Web Developer
+0,1,1,0,1,1,1,0,0,1,0,0,1,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,0,1,1,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,Bachelor's,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Artificial Intelligence,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,Bachelor's,Software Development,Backend Developer
+0,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,0,0,1,0,0,1,1,1,1,0,0,0,1,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,Diploma,Software Development,Backend Developer
+1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Master's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,Master's,Web Development,AI Engineer
+1,1,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,1,1,0,0,1,Diploma,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,0,0,High School,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,1,0,0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,PhD,Data Science,Data Scientist
+0,1,0,0,1,0,1,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,0,PhD,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,1,0,0,1,1,0,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,Bachelor's,Web Development,Frontend Developer
+0,1,1,1,1,1,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,1,0,0,1,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,1,Bachelor's,Web Development,Web Developer
+0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,High School,Artificial Intelligence,Frontend Developer
+1,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1,0,0,0,0,1,1,PhD,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,0,1,0,0,0,1,0,1,1,0,1,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Bachelor's,Data Analytics,Frontend Developer
+0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Data Science,AI Engineer
+1,0,1,0,0,0,1,1,1,1,0,1,0,0,1,1,1,1,1,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,1,Diploma,Web Development,Web Developer
+0,0,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,1,1,0,1,0,0,High School,Web Development,Frontend Developer
+0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,Master's,Software Development,Backend Developer
+0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Diploma,Web Development,Web Developer
+0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,Diploma,Web Development,Frontend Developer
+0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,0,1,1,1,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,Diploma,Software Development,Backend Developer
+1,1,1,0,0,0,1,1,1,0,1,0,1,1,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,1,1,1,1,1,1,0,1,0,0,0,1,1,1,1,0,1,0,1,1,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,Master's,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,0,0,1,0,0,1,1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,Master's,Data Analytics,AI Engineer
+1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,Master's,Data Science,Data Scientist
+0,1,1,1,0,1,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0,High School,Web Development,Full Stack Developer
+1,0,1,0,0,0,0,1,1,1,0,1,0,1,1,1,1,0,0,0,1,1,Master's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,Bachelor's,Artificial Intelligence,Data Scientist
+0,1,1,1,1,1,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,High School,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,1,Master's,Web Development,Full Stack Developer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,1,1,0,Diploma,Data Analytics,Data Analyst
+1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,Master's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Frontend Developer
+0,1,0,0,0,0,1,0,1,0,1,0,1,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Bachelor's,Web Development,Web Developer
+1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,1,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Diploma,Web Development,Data Analyst
+0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Frontend Developer
+1,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,High School,Artificial Intelligence,Data Analyst
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,High School,Web Development,Frontend Developer
+1,1,0,1,0,1,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,Diploma,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,1,1,0,0,1,0,0,0,1,1,1,1,0,0,1,0,PhD,Web Development,Data Scientist
+0,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,0,1,1,1,0,1,0,0,0,1,0,1,1,0,0,1,1,0,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,0,1,0,0,0,1,1,1,0,0,1,1,1,1,0,Diploma,Web Development,Full Stack Developer
+0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,Diploma,Web Development,Web Developer
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,PhD,Artificial Intelligence,AI Engineer
+1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Master's,Software Development,Backend Developer
+0,1,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,1,1,0,1,Master's,Software Development,Backend Developer
+1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,1,0,1,0,Bachelor's,Artificial Intelligence,Data Analyst
+0,1,0,1,1,1,0,1,0,1,0,0,0,1,1,0,1,0,1,1,1,1,Bachelor's,Artificial Intelligence,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,1,1,1,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,Diploma,Web Development,Backend Developer
+0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Master's,Data Science,Web Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,High School,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,Master's,Software Development,Backend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,High School,Software Development,Backend Developer
+0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Software Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,1,0,0,1,1,1,0,0,1,0,PhD,Data Science,Data Scientist
+0,1,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,1,Master's,Data Analytics,Data Scientist
+1,1,1,0,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,1,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,0,1,1,1,0,1,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,1,0,1,1,0,1,Diploma,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,Master's,Web Development,Web Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,Master's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Data Analytics,Web Developer
+1,0,0,0,1,0,1,1,1,0,0,0,0,1,1,1,0,0,1,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,1,1,Diploma,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,Diploma,Web Development,AI Engineer
+1,1,0,1,0,0,1,1,0,0,1,1,1,0,1,1,1,0,0,0,1,1,Bachelor's,Web Development,Data Scientist
+0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,1,1,1,0,0,0,0,1,0,0,0,1,1,1,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1,Bachelor's,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,Master's,Data Science,Data Scientist
+1,0,1,1,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,0,0,Diploma,Web Development,Web Developer
+0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,High School,Web Development,Full Stack Developer
+1,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,1,1,0,1,0,0,1,1,0,1,1,1,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,1,1,1,0,0,1,0,1,1,0,0,1,1,0,0,1,0,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,PhD,Software Development,Backend Developer
+0,1,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,1,1,0,0,0,0,0,Bachelor's,Data Science,Data Analyst
+1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Diploma,Data Science,Data Scientist
+1,1,0,0,0,0,0,1,0,1,1,0,0,1,0,1,1,0,0,1,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,Bachelor's,Artificial Intelligence,Data Analyst
+1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,High School,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Master's,Data Science,Data Scientist
+1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,Diploma,Data Analytics,Data Scientist
+1,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,Diploma,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,0,1,0,0,1,0,0,0,1,1,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,1,1,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Frontend Developer
+0,1,1,1,1,1,0,0,0,0,1,0,1,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,1,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0,1,0,1,1,Diploma,Software Development,Backend Developer
+0,0,1,0,0,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,High School,Data Analytics,Full Stack Developer
+0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,High School,Web Development,Web Developer
+1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,0,1,1,Bachelor's,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,1,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,1,0,1,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,1,0,0,1,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,1,0,1,0,Master's,Data Analytics,AI Engineer
+0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,PhD,Artificial Intelligence,AI Engineer
+0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,High School,Artificial Intelligence,Frontend Developer
+0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,High School,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0,PhD,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,Diploma,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,Master's,Web Development,Web Developer
+1,0,1,0,0,0,1,0,1,1,1,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,1,0,1,High School,Software Development,Backend Developer
+1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,1,1,0,0,1,0,0,1,0,1,0,1,1,1,0,0,1,1,1,1,0,Master's,Artificial Intelligence,Full Stack Developer
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,Diploma,Web Development,Frontend Developer
+1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,PhD,Artificial Intelligence,AI Engineer
+0,1,0,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,1,1,Bachelor's,Artificial Intelligence,Backend Developer
+1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,PhD,Data Science,Data Scientist
+1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,High School,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,Bachelor's,Web Development,Web Developer
+1,0,1,1,1,0,0,1,0,0,1,0,0,0,1,1,0,1,0,1,1,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,PhD,Data Science,Data Scientist
+0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,0,Master's,Artificial Intelligence,Full Stack Developer
+1,1,1,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,1,1,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,Bachelor's,Web Development,Data Scientist
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,1,0,Master's,Web Development,AI Engineer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,High School,Data Analytics,Data Analyst
+1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,Master's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,1,Bachelor's,Software Development,Backend Developer
+0,1,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,1,Master's,Web Development,AI Engineer
+0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Diploma,Web Development,Web Developer
+0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,0,1,0,1,0,0,1,0,0,1,1,0,0,1,0,1,0,0,Diploma,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,1,High School,Web Development,Full Stack Developer
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Artificial Intelligence,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0,Bachelor's,Artificial Intelligence,Data Scientist
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,1,1,0,PhD,Artificial Intelligence,AI Engineer
+1,1,1,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,Diploma,Web Development,Frontend Developer
+0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,0,Master's,Data Science,Data Scientist
+0,1,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,1,1,1,0,Bachelor's,Web Development,Full Stack Developer
+1,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,0,1,0,1,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,1,0,0,0,1,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Software Development,Frontend Developer
+0,1,0,1,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,0,0,Bachelor's,Data Science,Frontend Developer
+1,0,1,1,1,1,1,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,Bachelor's,Software Development,Backend Developer
+0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Diploma,Web Development,AI Engineer
+1,1,0,0,0,0,1,1,0,0,1,0,0,1,0,1,1,1,1,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,High School,Web Development,Web Developer
+0,1,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,1,1,1,1,0,0,0,0,0,1,1,0,0,1,1,0,0,0,Diploma,Web Development,Full Stack Developer
+0,0,0,0,0,0,1,1,1,0,1,0,1,1,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,Bachelor's,Data Analytics,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Master's,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,Bachelor's,Software Development,Web Developer
+0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,Diploma,Data Analytics,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,Master's,Data Analytics,Data Scientist
+0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,0,Master's,Data Science,AI Engineer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,1,Bachelor's,Artificial Intelligence,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Software Development,Frontend Developer
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Data Science,Web Developer
+0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,0,Diploma,Artificial Intelligence,Web Developer
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,0,1,0,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,Master's,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,Master's,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,1,1,0,1,Master's,Software Development,Backend Developer
+1,0,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Science,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,Master's,Artificial Intelligence,Web Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,Diploma,Data Analytics,Backend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,1,1,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1,1,0,1,0,PhD,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,Diploma,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Diploma,Data Science,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,Diploma,Web Development,Frontend Developer
+0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,High School,Data Analytics,Web Developer
+0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,1,0,1,Bachelor's,Software Development,Backend Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,Diploma,Web Development,Web Developer
+1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,Master's,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,1,1,Master's,Data Science,Backend Developer
+0,0,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,High School,Web Development,Frontend Developer
+0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,0,0,0,0,0,1,1,1,0,0,1,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,1,1,0,1,1,1,1,1,0,1,0,0,1,1,0,1,0,0,0,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,High School,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Artificial Intelligence,Frontend Developer
+0,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,PhD,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,PhD,Data Science,Data Scientist
+1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,Diploma,Software Development,Data Analyst
+0,0,1,1,0,1,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Web Development,Data Scientist
+1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,Master's,Data Science,Web Developer
+1,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,1,0,1,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,1,Master's,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,1,Master's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Master's,Web Development,Data Analyst
+1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,0,Diploma,Data Science,Data Scientist
+1,1,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,0,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,Bachelor's,Data Analytics,Frontend Developer
+0,1,1,1,0,1,1,1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,Diploma,Web Development,Full Stack Developer
+0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,0,0,1,1,0,0,0,0,1,0,1,1,1,0,0,0,1,1,0,1,Bachelor's,Software Development,Backend Developer
+0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,Master's,Data Analytics,AI Engineer
+0,1,1,1,1,0,1,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,Master's,Data Analytics,Data Analyst
+0,1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,Master's,Software Development,Backend Developer
+0,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,Master's,Software Development,Backend Developer
+1,1,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,1,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,Bachelor's,Data Science,Frontend Developer
+0,0,0,0,0,0,1,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,Diploma,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,Diploma,Web Development,Frontend Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,High School,Data Analytics,Data Analyst
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Bachelor's,Software Development,Backend Developer
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1,High School,Web Development,Full Stack Developer
+1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,1,1,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Master's,Web Development,Web Developer
+1,1,0,0,0,0,1,0,1,0,1,1,0,1,0,1,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,High School,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,Master's,Artificial Intelligence,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Master's,Data Science,Data Scientist
+1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,0,0,0,1,0,1,1,0,0,1,1,0,0,0,Diploma,Web Development,Full Stack Developer
+1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,Bachelor's,Web Development,Web Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,Diploma,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1,Master's,Data Analytics,Data Analyst
+1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,1,1,1,0,1,0,Bachelor's,Data Analytics,Data Scientist
+0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,Diploma,Web Development,Frontend Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1,1,Diploma,Software Development,Backend Developer
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,Diploma,Artificial Intelligence,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,1,1,Master's,Data Science,Data Scientist
+1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,0,1,0,0,1,PhD,Data Science,Data Scientist
+1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,Bachelor's,Data Science,Full Stack Developer
+1,1,0,0,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,1,1,0,PhD,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,Master's,Artificial Intelligence,AI Engineer
+1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Data Analytics,Web Developer
+1,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Diploma,Artificial Intelligence,Backend Developer
+1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,Diploma,Web Development,Data Analyst
+0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0,1,Master's,Data Analytics,Data Analyst
+1,1,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,0,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,High School,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,High School,Data Science,Data Analyst
+0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Web Development,Data Scientist
+0,1,0,1,1,0,0,0,1,0,0,1,1,1,1,0,0,1,1,0,0,0,Master's,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,Diploma,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Web Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Bachelor's,Web Development,Frontend Developer
+1,0,1,0,0,0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,1,Bachelor's,Software Development,Backend Developer
+0,0,1,1,1,0,1,1,0,1,1,1,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,0,1,0,Diploma,Data Science,Data Scientist
+0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,Bachelor's,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,Master's,Web Development,Web Developer
+1,0,0,0,0,1,1,1,1,1,0,0,0,1,1,1,0,0,0,0,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,1,0,0,0,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,1,Diploma,Data Analytics,Data Analyst
+1,1,0,0,1,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,Diploma,Artificial Intelligence,Data Analyst
+1,0,0,0,0,0,1,1,1,1,0,0,0,1,1,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,Bachelor's,Data Science,Full Stack Developer
+1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,1,1,0,1,1,0,1,0,0,1,0,0,1,1,0,0,1,1,1,1,0,Master's,Web Development,Full Stack Developer
+0,1,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,Bachelor's,Data Science,Full Stack Developer
+1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,PhD,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,1,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,1,0,Master's,Data Science,Data Scientist
+0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,1,1,1,1,0,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,Diploma,Software Development,Backend Developer
+1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,Bachelor's,Software Development,Data Scientist
+0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0,Diploma,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,0,0,0,1,0,0,1,1,0,1,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,Diploma,Artificial Intelligence,Frontend Developer
+0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,PhD,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1,PhD,Data Science,Data Scientist
+1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,Bachelor's,Data Analytics,Data Analyst
+0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,1,1,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,Master's,Web Development,Data Scientist
+1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,Master's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Diploma,Data Science,Data Scientist
+0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,0,Diploma,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,1,0,0,0,0,1,1,1,0,1,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,1,0,0,Master's,Data Science,Data Scientist
+1,1,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,0,1,1,1,1,0,0,0,1,1,0,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Diploma,Web Development,Frontend Developer
+1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,1,0,0,1,0,1,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,1,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,Master's,Web Development,Full Stack Developer
+1,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,Master's,Artificial Intelligence,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,1,1,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,1,0,0,High School,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,Diploma,Software Development,Web Developer
+1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,1,0,0,0,1,1,1,0,0,1,0,1,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Bachelor's,Artificial Intelligence,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,High School,Artificial Intelligence,Frontend Developer
+0,1,1,1,1,1,0,0,0,0,0,1,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,Master's,Web Development,Frontend Developer
+1,1,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,0,0,0,0,0,Bachelor's,Artificial Intelligence,Data Analyst
+0,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,0,1,1,Bachelor's,Data Analytics,AI Engineer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,High School,Web Development,Frontend Developer
+0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,Master's,Web Development,Backend Developer
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,0,0,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,Diploma,Data Science,Data Scientist
+0,1,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,1,1,Bachelor's,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,1,Diploma,Data Science,Web Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,PhD,Software Development,Backend Developer
+1,1,0,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,Bachelor's,Data Analytics,Web Developer
+1,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,Master's,Web Development,Full Stack Developer
+0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,1,0,Bachelor's,Web Development,AI Engineer
+1,1,1,0,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0,Master's,Data Science,Data Scientist
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,PhD,Data Science,Data Scientist
+0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,Master's,Software Development,Data Scientist
+0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Master's,Data Analytics,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,1,0,1,0,0,0,1,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0,1,Master's,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+0,1,1,1,1,1,0,0,0,1,0,1,0,1,0,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,Diploma,Web Development,Full Stack Developer
+1,1,1,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,1,0,0,1,1,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,High School,Data Analytics,Data Analyst
+1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,High School,Artificial Intelligence,Frontend Developer
+0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,1,0,1,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+1,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0,1,1,0,1,0,0,Diploma,Data Analytics,Data Analyst
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,PhD,Artificial Intelligence,AI Engineer
+0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,1,1,Bachelor's,Software Development,Backend Developer
+0,0,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,1,0,1,0,0,High School,Web Development,Web Developer
+0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,0,0,1,1,Diploma,Software Development,Backend Developer
+0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,1,0,0,0,1,0,Master's,Data Science,AI Engineer
+0,0,0,1,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,1,1,PhD,Data Science,Data Scientist
+1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,1,Bachelor's,Data Science,AI Engineer
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,High School,Web Development,Frontend Developer
+1,1,0,1,1,0,1,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Master's,Web Development,Web Developer
+1,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,Diploma,Web Development,Web Developer
+0,0,1,1,1,1,0,0,1,0,0,0,0,1,1,0,0,1,0,1,0,0,High School,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,PhD,Data Science,Data Scientist
+1,0,0,0,1,0,0,1,1,1,0,0,1,0,1,1,1,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,Bachelor's,Data Analytics,Full Stack Developer
+1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,1,0,0,0,0,0,Master's,Artificial Intelligence,Data Analyst
+1,0,0,1,0,0,1,1,1,0,0,1,0,1,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,High School,Data Analytics,Data Analyst
+1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1,1,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,0,PhD,Data Science,AI Engineer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,1,1,1,1,1,0,0,1,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,1,0,Bachelor's,Software Development,Data Analyst
+0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,High School,Web Development,Full Stack Developer
+0,1,1,1,1,1,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0,0,High School,Web Development,Full Stack Developer
+1,0,1,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+1,1,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Data Analytics,Full Stack Developer
+0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,1,0,1,1,0,1,0,Diploma,Web Development,Frontend Developer
+0,1,0,0,0,1,1,0,0,0,1,0,1,1,1,0,1,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,Diploma,Web Development,Web Developer
+0,0,1,1,1,1,0,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,Master's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,Diploma,Artificial Intelligence,Data Analyst
+0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,Master's,Software Development,Data Analyst
+0,0,1,1,1,1,0,1,0,0,1,0,0,1,1,0,0,0,1,0,0,1,Bachelor's,Artificial Intelligence,Full Stack Developer
+0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,1,0,Master's,Web Development,Data Scientist
+0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,Diploma,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,Diploma,Data Science,Frontend Developer
+1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,Diploma,Software Development,Backend Developer
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,1,1,Master's,Data Science,Data Scientist
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,1,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,Diploma,Software Development,Backend Developer
+0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,1,Master's,Software Development,Backend Developer
+1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,Diploma,Web Development,Full Stack Developer
+0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,0,1,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Master's,Web Development,Web Developer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Diploma,Web Development,Web Developer
+1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,1,0,1,Bachelor's,Software Development,Data Scientist
+1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,Bachelor's,Data Science,Data Scientist
+0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,Diploma,Web Development,Web Developer
+0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,PhD,Data Science,Data Scientist
+0,1,0,1,1,1,0,1,0,0,1,1,0,1,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,Master's,Web Development,Frontend Developer
+1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,High School,Web Development,Web Developer
+0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+0,1,1,0,1,1,0,0,0,0,0,0,1,1,1,1,0,0,1,1,0,0,High School,Web Development,Full Stack Developer
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,High School,Software Development,Backend Developer
+0,1,1,0,1,1,0,0,1,1,0,0,0,1,0,0,1,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,0,1,0,Diploma,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,Master's,Data Analytics,AI Engineer
+0,1,1,1,1,1,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Diploma,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,Master's,Data Science,Backend Developer
+1,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Web Developer
+1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,0,1,1,1,1,1,0,0,1,0,1,0,1,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,1,0,0,0,1,0,0,1,1,0,1,0,0,1,0,0,0,1,0,Bachelor's,Web Development,Data Analyst
+1,1,0,0,0,0,1,1,1,1,1,0,1,0,1,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,0,1,0,Master's,Artificial Intelligence,AI Engineer
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Bachelor's,Software Development,Frontend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,PhD,Software Development,Backend Developer
+1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0,0,1,0,Bachelor's,Data Analytics,Data Scientist
+0,0,0,1,1,1,0,0,0,0,0,1,1,1,1,0,1,1,1,1,0,0,High School,Web Development,Web Developer
+0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,Diploma,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,High School,Artificial Intelligence,Frontend Developer
+0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,Master's,Data Science,Backend Developer
+1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,Master's,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,Diploma,Software Development,Backend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,Master's,Web Development,Frontend Developer
+0,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,High School,Web Development,Web Developer
+0,1,0,0,0,1,1,0,0,1,1,1,0,1,0,0,1,0,1,0,0,0,Diploma,Web Development,Data Analyst
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,High School,Web Development,Full Stack Developer
+0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,0,0,0,1,1,0,1,0,0,1,1,1,0,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,1,0,0,1,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,1,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,PhD,Data Analytics,Data Scientist
+0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,0,Master's,Artificial Intelligence,AI Engineer
+0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,Diploma,Data Science,Full Stack Developer
+1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,1,High School,Software Development,Backend Developer
+1,1,0,0,1,0,1,1,1,1,0,1,1,0,0,1,0,0,0,0,1,0,PhD,Artificial Intelligence,AI Engineer
+0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,1,1,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,Bachelor's,Web Development,Frontend Developer
+1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,Bachelor's,Web Development,AI Engineer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Artificial Intelligence,Frontend Developer
+1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+1,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,Diploma,Software Development,Web Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Master's,Data Science,Data Scientist
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,Master's,Data Science,Data Scientist
+0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Web Development,Data Analyst
+1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,Diploma,Data Analytics,Web Developer
+0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,Master's,Artificial Intelligence,Web Developer
+0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Bachelor's,Web Development,Web Developer
+0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,1,1,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,1,0,0,1,0,1,0,0,1,1,0,0,1,1,0,Master's,Data Analytics,Data Scientist
+0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,Bachelor's,Web Development,Frontend Developer
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,1,0,Diploma,Data Science,Data Scientist
+1,0,1,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,0,1,1,1,0,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,Bachelor's,Web Development,Frontend Developer
+1,1,0,0,0,0,1,1,0,0,1,1,1,1,0,1,1,0,0,0,1,0,Bachelor's,Data Science,Data Scientist
+0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,1,Bachelor's,Web Development,Full Stack Developer
+1,1,0,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0,0,0,1,0,Master's,Artificial Intelligence,AI Engineer
+1,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,Diploma,Data Analytics,Data Analyst
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,Bachelor's,Web Development,Frontend Developer
+0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,1,Bachelor's,Web Development,Full Stack Developer
+0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,Bachelor's,Data Analytics,Data Analyst
+1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,1,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,Bachelor's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,1,1,0,1,0,Bachelor's,Web Development,Full Stack Developer
+0,0,1,1,1,1,1,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,1,1,0,0,1,1,1,0,1,0,1,0,0,0,Bachelor's,Data Analytics,Backend Developer
+0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,High School,Artificial Intelligence,Frontend Developer
+0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,Diploma,Artificial Intelligence,Frontend Developer
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Bachelor's,Artificial Intelligence,Frontend Developer
+1,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,1,Master's,Data Analytics,Backend Developer
+1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,High School,Data Science,Web Developer
+1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Diploma,Web Development,Frontend Developer
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,Bachelor's,Web Development,Web Developer
+0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,Diploma,Web Development,Backend Developer
+1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,0,1,0,Diploma,Data Analytics,Data Analyst
+0,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,Bachelor's,Web Development,Web Developer
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Bachelor's,Software Development,Backend Developer
+1,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,0,Master's,Data Analytics,Data Analyst
+1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,Master's,Software Development,Backend Developer
+1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,1,0,Diploma,Data Science,Data Scientist
+1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,1,Diploma,Software Development,Backend Developer
+1,1,0,0,0,0,1,1,0,1,1,1,0,0,1,0,1,0,0,0,0,0,Master's,Data Analytics,Data Analyst
+0,1,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,Diploma,Web Development,Full Stack Developer
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,Diploma,Software Development,Backend Developer
+0,0,1,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,Diploma,Web Development,Full Stack Developer
+0,0,0,0,1,0,1,1,1,1,0,0,1,0,1,1,0,0,0,0,1,0,Bachelor's,Artificial Intelligence,AI Engineer
+0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,1,Bachelor's,Software Development,Backend Developer

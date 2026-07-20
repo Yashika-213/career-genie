@@ -1,0 +1,13 @@
+node_modules
+**/node_modules
+frontend/dist
+backend/dist
+ml/.venv
+**/__pycache__
+*.pyc
+data/*.db
+data/*.db-journal
+*.log
+.git
+.vscode
+.idea
